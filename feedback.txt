@@ -1,0 +1,26 @@
+
+Latar belakang
+paragraf 1: kenapa
+paragraf 2: literatur
+paragraf 3: kontribusi, misal di jalan tol
+
+Rumusan masalah:
+usahakan 5w+1h
+
+Tujuan berhubungan sama rumusan masalah
+
+Confusion matrix dan lain2 masuk bab 3
+flow chart berisi alur algoritma
+penjelasan flowchart
+
+coding masuk ke bab 4
+yolov4 dibandingin, sedikit sajaa
+
+
+
+sempro ppt:
+latar belakang dirangkum + kontribusi
+ppt hanya 5 slide (tidak termasuk judul)
+ppt hanya berisi blok diagram
+
+AP pada mobil sebesar 99,88%, pada sepeda motor 97,79%, becak sebesar 100%, truk sebesar 100%, dan bus 99,09%.  
