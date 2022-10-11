@@ -87,7 +87,7 @@ model.setPreferableTarget(cv2.dnn.DNN_TARGET_CUDA)
 
 layer_name = model.getLayerNames()
 layer_name = [layer_name[i - 1] for i in model.getUnconnectedOutLayers()]
-cap = cv2.VideoCapture("traffic.mp4")
+cap = cv2.VideoCapture("2Person2.mp4")
 writer = None
 font = cv2.FONT_HERSHEY_PLAIN
 
