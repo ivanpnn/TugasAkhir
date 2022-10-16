@@ -17,10 +17,28 @@ coding masuk ke bab 4
 yolov4 dibandingin, sedikit sajaa
 
 
-
 sempro ppt:
 latar belakang dirangkum + kontribusi
 ppt hanya 5 slide (tidak termasuk judul)
 ppt hanya berisi blok diagram
 
 AP pada mobil sebesar 99,88%, pada sepeda motor 97,79%, becak sebesar 100%, truk sebesar 100%, dan bus 99,09%.  
+
+Masukkan:
+1. Metodologi Penelitian diberi prolog - Done
+2. Blok diagram dieedit lagi panahnya - Done
+3. Dasar teori diurutkan pake prioritas, dan ditambahin - Done
+4. Sebelum flowchart diberi prolog - Done
+5. Flowchart kayak gini - Done
+Start
+Penjelasanafjsihfifuiewiafweiuaifuwewefwaf
+6. Edit Headings - Done
+
+
+Landasar toeri:
+YOLO
+Image processing
+Program
+
+Confussion matrix, arsitektur alat,flowchart
+perbandingan model
