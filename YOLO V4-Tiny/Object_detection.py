@@ -8,13 +8,22 @@ import imutils
 import time
 
 NMS_THRESHOLD=0.4
-MIN_CONFIDENCE=0.5
+MIN_CONFIDENCE=0.3
 
 timeframe= time.time()
 frame_id = 0
 carCount = 0
 
-def pedestrian_detection(image, model, layer_name, personidz=3):
+def upper_line_threshold_for_detection(frame_shape):
+
+	return int(frame_shape[0] / 2) + 2
+
+def lower_line_threshold_for_detection(frame_shape):
+
+	return int(frame_shape[0] / 2) - 2
+
+
+def car_detection(image, model, layer_name, carID=2):
 	global carCount
 	(H, W) = image.shape[:2]
 	results = []
@@ -45,14 +54,12 @@ def pedestrian_detection(image, model, layer_name, personidz=3):
 				centroids.append((centerX, centerY))
 				confidences.append(float(confidence))
 				classIDs.append(classID)
-				# print("ClassID = "+str(classID))
 
-				if (int(image.shape[0]/2) - 2) < y < (int(image.shape[0]/2)+2):
-					if classID == 2:
+				# Line to count car
+				if (lower_line_threshold_for_detection(image.shape)) < y < (upper_line_threshold_for_detection(image.shape)):
+					if classID == carID:
 						carCount = carCount + 1
 
-
-						
 	# apply non-maxima suppression to suppress weak, overlapping
 	# bounding boxes
 	idzs = cv2.dnn.NMSBoxes(boxes, confidences, MIN_CONFIDENCE, NMS_THRESHOLD)
@@ -71,18 +78,10 @@ def pedestrian_detection(image, model, layer_name, personidz=3):
 			label = str(LABELS[classIDs[i]])
 			cv2.putText(frame, label + " " + str(round(confidence, 2)), (x, y), font, 1, (0, 255, 0), 2)
 
-			cv2.line(image, (0, int(image.shape[0]/1.5)+3), (int(image.shape[1]), int(image.shape[0]/1.5)+3), (0, 0, 200), 1)
-			cv2.line(image, (0, int(image.shape[0]/1.5)-3), (int(image.shape[1]), int(image.shape[0]/1.5)-3), (0, 0, 200), 1)
-
-
 			res = (confidences[i], (x, y, x + w, y + h), centroids[i])
 			results.append(res)
-#			count1 = 0
 	# return the list of results
-
 	return results
-
-
 
 labelsPath = "coco.names"
 LABELS = open(labelsPath).read().strip().split("\n")
@@ -113,7 +112,7 @@ while True:
 	if not grabbed:
 		break
 	frame = imutils.resize(frame, width=700)
-	results = pedestrian_detection(frame, model, layer_name, personidz=LABELS.index("car"))
+	results = car_detection(frame, model, layer_name, carID=LABELS.index("car"))
 
 	for res in results:
 		cv2.rectangle(frame, (res[1][0],res[1][1]), (res[1][2],res[1][3]), (0, 255, 0), 2)
@@ -121,14 +120,18 @@ while True:
 	elapsed_time = time.time() - timeframe
 	fps = frame_id / elapsed_time
 	cv2.putText(frame, str(round(fps,2)), (10, 50), font, 2, (0, 255, 0), 2)
-	cv2.putText(frame, "FPS", (120, 50), font, 2, (0, 255, 0), 2)	
+	cv2.putText(frame, "FPS", (120, 50), font, 2, (0, 255, 0), 2)
+
 	#counter
 	count1 = len(results) 
-	cv2.putText(frame, "jumlah" +" "+ str(carCount), (10, 80), font, 2, (0, 255, 0))
+	cv2.putText(frame, "jumlah =" + " " + str(carCount), (10, 80), font, 2, (0, 255, 0))
+
+	cv2.line(frame, (0, upper_line_threshold_for_detection(frame.shape)), (int(frame.shape[1]), upper_line_threshold_for_detection(frame.shape)), (0, 0, 200), 1)
+	cv2.line(frame, (0, lower_line_threshold_for_detection(frame.shape)), (int(frame.shape[1]), lower_line_threshold_for_detection(frame.shape)), (0, 0, 200), 1)
 
 	print("carCount =" + str(carCount))
 
-	cv2.imshow("Detection",frame)
+	cv2.imshow("Detection", frame)
 
 	key = cv2.waitKey(1)
 	if key == 27:
