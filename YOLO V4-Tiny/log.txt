@@ -1,0 +1,1316 @@
+Frame = 1
+Car Total = 0
+Car in Frame = 0
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 2
+Car Total = 0
+Car in Frame = 0
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 3
+Car Total = 0
+Car in Frame = 0
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 4
+Car Total = 0
+Car in Frame = 0
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 5
+Car Total = 0
+Car in Frame = 0
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 6
+Car Total = 0
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 7
+Car Total = 0
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 8
+Car Total = 0
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 9
+Car Total = 0
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 10
+Car Total = 0
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 11
+Car Total = 0
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 12
+Car Total = 0
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 13
+Car Total = 0
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 14
+Car Total = 0
+Car in Frame = 5
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 15
+Car Total = 0
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 16
+Car Total = 0
+Car in Frame = 7
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 17
+Car Total = 0
+Car in Frame = 5
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 18
+Car Total = 0
+Car in Frame = 5
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 19
+Car Total = 0
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 20
+Car Total = 0
+Car in Frame = 5
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 21
+Car Total = 0
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 22
+Car Total = 0
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 23
+Car Total = 0
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 24
+Car Total = 0
+Car in Frame = 5
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 25
+Car Total = 0
+Car in Frame = 5
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 26
+Car Total = 0
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 27
+Car Total = 1
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 28
+Car Total = 2
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 29
+Car Total = 2
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 30
+Car Total = 2
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 31
+Car Total = 2
+Car in Frame = 6
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 32
+Car Total = 2
+Car in Frame = 5
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 33
+Car Total = 2
+Car in Frame = 5
+Bus in Frame = 1
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 34
+Car Total = 2
+Car in Frame = 6
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 35
+Car Total = 2
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 36
+Car Total = 2
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 37
+Car Total = 2
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 38
+Car Total = 2
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 39
+Car Total = 2
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 40
+Car Total = 2
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 41
+Car Total = 2
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 42
+Car Total = 2
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 43
+Car Total = 2
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 44
+Car Total = 2
+Car in Frame = 5
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 45
+Car Total = 3
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 46
+Car Total = 3
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 47
+Car Total = 3
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 48
+Car Total = 4
+Car in Frame = 5
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 49
+Car Total = 5
+Car in Frame = 6
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 50
+Car Total = 5
+Car in Frame = 5
+Bus in Frame = 0
+Truck in Frame = 1
+Others in Frame = 0
+
+Frame = 51
+Car Total = 5
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 52
+Car Total = 5
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 53
+Car Total = 6
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 54
+Car Total = 6
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 55
+Car Total = 6
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 56
+Car Total = 6
+Car in Frame = 7
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 57
+Car Total = 6
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 2
+Others in Frame = 0
+
+Frame = 58
+Car Total = 6
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 2
+Others in Frame = 0
+
+Frame = 59
+Car Total = 6
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 60
+Car Total = 6
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 61
+Car Total = 6
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 1
+Others in Frame = 0
+
+Frame = 62
+Car Total = 6
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 1
+Others in Frame = 0
+
+Frame = 63
+Car Total = 6
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 64
+Car Total = 6
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 65
+Car Total = 6
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 66
+Car Total = 6
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 67
+Car Total = 6
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 68
+Car Total = 6
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 69
+Car Total = 7
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 70
+Car Total = 7
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 71
+Car Total = 7
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 72
+Car Total = 7
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 73
+Car Total = 7
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 74
+Car Total = 7
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 75
+Car Total = 7
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 76
+Car Total = 7
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 77
+Car Total = 8
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 78
+Car Total = 8
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 79
+Car Total = 8
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 80
+Car Total = 8
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 81
+Car Total = 8
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 82
+Car Total = 8
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 83
+Car Total = 8
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 84
+Car Total = 8
+Car in Frame = 6
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 85
+Car Total = 8
+Car in Frame = 5
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 86
+Car Total = 8
+Car in Frame = 6
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 87
+Car Total = 8
+Car in Frame = 8
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 88
+Car Total = 8
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 89
+Car Total = 8
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 90
+Car Total = 8
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 91
+Car Total = 8
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 92
+Car Total = 8
+Car in Frame = 5
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 93
+Car Total = 8
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 94
+Car Total = 9
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 95
+Car Total = 9
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 96
+Car Total = 9
+Car in Frame = 5
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 97
+Car Total = 9
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 98
+Car Total = 9
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 99
+Car Total = 9
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 100
+Car Total = 9
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 0
+
+Frame = 101
+Car Total = 9
+Car in Frame = 5
+Bus in Frame = 0
+Truck in Frame = 1
+Others in Frame = 0
+
+Frame = 102
+Car Total = 9
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 1
+
+Frame = 103
+Car Total = 9
+Car in Frame = 5
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 2
+
+Frame = 104
+Car Total = 9
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 2
+
+Frame = 105
+Car Total = 9
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 1
+Others in Frame = 2
+
+Frame = 106
+Car Total = 9
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 1
+Others in Frame = 2
+
+Frame = 107
+Car Total = 9
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 1
+Others in Frame = 2
+
+Frame = 108
+Car Total = 9
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 1
+Others in Frame = 2
+
+Frame = 109
+Car Total = 9
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 2
+
+Frame = 110
+Car Total = 9
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 2
+
+Frame = 111
+Car Total = 9
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 2
+
+Frame = 112
+Car Total = 10
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 2
+
+Frame = 113
+Car Total = 10
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 2
+
+Frame = 114
+Car Total = 10
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 115
+Car Total = 10
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 116
+Car Total = 10
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 117
+Car Total = 10
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 118
+Car Total = 10
+Car in Frame = 0
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 119
+Car Total = 10
+Car in Frame = 0
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 120
+Car Total = 10
+Car in Frame = 0
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 121
+Car Total = 10
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 122
+Car Total = 10
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 123
+Car Total = 10
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 124
+Car Total = 10
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 125
+Car Total = 10
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 126
+Car Total = 10
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 127
+Car Total = 10
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 128
+Car Total = 10
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 129
+Car Total = 10
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 130
+Car Total = 10
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 131
+Car Total = 10
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 132
+Car Total = 11
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 133
+Car Total = 11
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 134
+Car Total = 11
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 135
+Car Total = 11
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 136
+Car Total = 11
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 137
+Car Total = 11
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 138
+Car Total = 11
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 139
+Car Total = 11
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 140
+Car Total = 11
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 141
+Car Total = 11
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 142
+Car Total = 11
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 143
+Car Total = 11
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 144
+Car Total = 11
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 145
+Car Total = 11
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 146
+Car Total = 12
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 147
+Car Total = 13
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 148
+Car Total = 13
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 149
+Car Total = 13
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 150
+Car Total = 13
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 1
+Others in Frame = 3
+
+Frame = 151
+Car Total = 13
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 152
+Car Total = 13
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 153
+Car Total = 13
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 154
+Car Total = 13
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 155
+Car Total = 13
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 156
+Car Total = 14
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 157
+Car Total = 14
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 158
+Car Total = 14
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 159
+Car Total = 15
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 160
+Car Total = 15
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 161
+Car Total = 15
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 162
+Car Total = 15
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 163
+Car Total = 15
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 164
+Car Total = 15
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 165
+Car Total = 15
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 166
+Car Total = 15
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 167
+Car Total = 15
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 168
+Car Total = 15
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 169
+Car Total = 15
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 170
+Car Total = 15
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 1
+Others in Frame = 3
+
+Frame = 171
+Car Total = 15
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 1
+Others in Frame = 3
+
+Frame = 172
+Car Total = 16
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 173
+Car Total = 17
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 174
+Car Total = 17
+Car in Frame = 3
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 175
+Car Total = 17
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 176
+Car Total = 17
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 177
+Car Total = 17
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 178
+Car Total = 17
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 179
+Car Total = 17
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 180
+Car Total = 17
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 181
+Car Total = 17
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 182
+Car Total = 17
+Car in Frame = 0
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 183
+Car Total = 17
+Car in Frame = 0
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 184
+Car Total = 17
+Car in Frame = 1
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 185
+Car Total = 17
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 186
+Car Total = 17
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 187
+Car Total = 17
+Car in Frame = 4
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+
+Frame = 188
+Car Total = 18
+Car in Frame = 2
+Bus in Frame = 0
+Truck in Frame = 0
+Others in Frame = 3
+

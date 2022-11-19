@@ -1,0 +1,6 @@
+mAP hitung di 11 titik aja
+10 kali training, untuk ngitung akurasi
+
+di laporan cukup 1 aja yang dijelaskan cara ngitungnya
+diconvert ke .txt
+kontribusi boleh diubah kalo diperlukan

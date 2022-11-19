@@ -10,9 +10,17 @@ import time
 NMS_THRESHOLD=0.4
 MIN_CONFIDENCE=0.3
 
+
+
 timeframe= time.time()
 frame_id = 0
 carCount = 0
+frame_no = 1
+
+carInFrame = 0
+truckInFrame = 0
+busInFrame = 0
+othersInFrame = 0
 
 def upper_line_threshold_for_detection(frame_shape):
 
@@ -24,7 +32,7 @@ def lower_line_threshold_for_detection(frame_shape):
 
 
 def car_detection(image, model, layer_name, carID=2):
-	global carCount
+	global carCount, carInFrame, busInFrame, truckInFrame, othersInFrame
 	(H, W) = image.shape[:2]
 	results = []
 	#Mengatur kualitas video
@@ -36,6 +44,10 @@ def car_detection(image, model, layer_name, carID=2):
 	centroids = []
 	confidences = []
 	classIDs = []
+
+	carInFrame = 0
+	truckInFrame = 0
+	busInFrame = 0
 
 	for output in layerOutputs:
 		for detection in output:
@@ -55,10 +67,19 @@ def car_detection(image, model, layer_name, carID=2):
 				confidences.append(float(confidence))
 				classIDs.append(classID)
 
+				if classID == carID:
+					carInFrame += 1
+				elif classID == 5:
+					busInFrame += 1
+				elif classID == 7:
+					truckInFrame += 1
+				else:
+					othersInFrame += 1
+
 				# Line to count car
 				if (lower_line_threshold_for_detection(image.shape)) < y < (upper_line_threshold_for_detection(image.shape)):
 					if classID == carID:
-						carCount = carCount + 1
+						carCount += 1
 
 	# apply non-maxima suppression to suppress weak, overlapping
 	# bounding boxes
@@ -129,7 +150,15 @@ while True:
 	cv2.line(frame, (0, upper_line_threshold_for_detection(frame.shape)), (int(frame.shape[1]), upper_line_threshold_for_detection(frame.shape)), (0, 0, 200), 1)
 	cv2.line(frame, (0, lower_line_threshold_for_detection(frame.shape)), (int(frame.shape[1]), lower_line_threshold_for_detection(frame.shape)), (0, 0, 200), 1)
 
-	print("carCount =" + str(carCount))
+	with open('log.txt', 'a') as f:
+		f.write('Frame = ' + str(frame_id) + '\n')
+		f.write('Car Total = ' + str(carCount) + '\n')
+		f.write('Car in Frame = ' + str(carInFrame) + '\n')
+		f.write('Bus in Frame = ' + str(busInFrame) + '\n')
+		f.write('Truck in Frame = ' + str(truckInFrame) + '\n')
+		f.write('Others in Frame = ' + str(othersInFrame) + '\n' + '\n')
+
+
 
 	cv2.imshow("Detection", frame)
 
