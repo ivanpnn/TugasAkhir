@@ -4,3 +4,7 @@ mAP hitung di 11 titik aja
 di laporan cukup 1 aja yang dijelaskan cara ngitungnya
 diconvert ke .txt
 kontribusi boleh diubah kalo diperlukan
+
+https://towardsdatascience.com/a-look-at-precision-recall-and-f1-score-36b5fd0dd3ec
+
+https://stevkarta.medium.com/membicarakan-precision-recall-dan-f1-score-e96d81910354
